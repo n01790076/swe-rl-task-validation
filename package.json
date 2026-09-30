@@ -1,0 +1,12 @@
+{
+  "name": "swe-rl-task-validation",
+  "version": "1.0.0",
+  "description": "Playwright tests that validate SWE solutions for RL environments - Terac portfolio",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "typescript": "^5.0.0"
+  }
+}
