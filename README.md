@@ -1,3 +1,5 @@
+[![TypeScript and Playwright Tests](https://github.com/n01790076/swe-rl-task-validation/actions/workflows/main.yml/badge.svg)](https://github.com/n01790076/swe-rl-task-validation/actions/workflows/main.yml)
+
 # SWE/RL Coding Task Validation
 
 A TypeScript and Playwright portfolio project demonstrating software engineering, automated testing, algorithmic analysis, and structured evaluation of coding solutions.
