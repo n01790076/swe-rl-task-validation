@@ -97,4 +97,5 @@ The examples are educational and do not represent a deployed production system o
 ## Author
 
 Frank Oteng Marfo  
-Brampton,
+Brampton, Ontario, Canada
+GitHub: https://github.com/n01790076
